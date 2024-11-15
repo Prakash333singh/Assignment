@@ -6,6 +6,7 @@ import fs from "fs-extra";
 //   api_key: process.env.CLOUDINARY_API_KEY,
 //   api_secret: process.env.CLOUDINARY_API_SECRET,
 // });
+
 cloudinary.config({
   cloud_name: "dvp9end1y",
   api_key: "749114768376355",
